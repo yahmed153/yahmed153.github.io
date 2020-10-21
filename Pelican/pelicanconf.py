@@ -19,8 +19,8 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('yprime', 'https://trade.yprime.xyz/'),
-         ('Github', 'https://github.com/yahmed153/'))
+LINKS = (('yprime', 'https://trade.yprime.xyz'),
+         ('Github', 'https://github.com/yahmed153/yahmed153.github.io'))
 
 # Social widget
 SOCIAL = (('Another social link', '#'), ('Another social link', '#'))
