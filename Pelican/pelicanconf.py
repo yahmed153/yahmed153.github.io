@@ -3,7 +3,7 @@
 
 AUTHOR = 'Yaser Ahmed'
 SITENAME = 'yprime'
-SITEURL = ''
+SITEURL = '.'
 
 PATH = 'content'
 
